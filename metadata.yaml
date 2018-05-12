@@ -1,0 +1,28 @@
+_repo: I-Utvecklingstid--En-ber-ttelse-om-flickor_26479
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26479-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Topelius, Toini Mathilda
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '32036'
+    url: http://www.gutenberg.org/2009/agents/32036
+    wikipedia: http://fi.wikipedia.org/wiki/Toini_Topelius
+description: ''
+gutenberg_issued: '2008-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26479'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Swedes -- Finland -- Social life and customs -- Juvenile fiction'
+title: 'I Utvecklingstid: En berättelse om flickor'
+url: http://www.gutenberg.org/ebooks/26479
